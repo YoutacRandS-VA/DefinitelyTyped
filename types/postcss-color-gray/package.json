@@ -6,7 +6,7 @@
         "https://github.com/postcss/postcss-color-gray"
     ],
     "dependencies": {
-        "postcss": "^7.0.5"
+        "postcss": "^8.4.31"
     },
     "devDependencies": {
         "@types/postcss-color-gray": "workspace:."
