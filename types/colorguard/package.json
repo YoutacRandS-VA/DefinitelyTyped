@@ -6,7 +6,7 @@
         "https://github.com/SlexAxton/css-colorguard"
     ],
     "dependencies": {
-        "postcss": "^5.0.4"
+        "postcss": "^8.4.31"
     },
     "devDependencies": {
         "@types/colorguard": "workspace:."
