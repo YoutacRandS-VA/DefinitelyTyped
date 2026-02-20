@@ -6,7 +6,7 @@
         "https://github.com/jenslind/electron-positioner"
     ],
     "dependencies": {
-        "electron": "^27.3.9"
+        "electron": "^40.6.0"
     },
     "devDependencies": {
         "@types/electron-positioner": "workspace:."

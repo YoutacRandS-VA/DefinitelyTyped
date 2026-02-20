@@ -6,7 +6,7 @@
         "https://github.com/x-cold/dingtalk-robot"
     ],
     "dependencies": {
-        "axios": "^0.21.3"
+        "axios": "^1.13.5"
     },
     "devDependencies": {
         "@types/dingtalk-robot-sender": "workspace:."
