@@ -7,7 +7,7 @@
     ],
     "dependencies": {
         "@jest/types": "^27.4.2",
-        "@types/autoprefixer": "^9.7.2",
+        "@types/autoprefixer": "^10.2.0",
         "@types/babel-core": "*",
         "@types/eslint": "*",
         "@types/express": "*",
